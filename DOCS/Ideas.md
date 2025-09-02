@@ -1,30 +1,36 @@
-#IDEAS DE PROYECTO
+# IDEAS DE PROYECTO
 
 Se proponen las siguientes ideas de aplicación para el proyecto:
 
-#1. Aplicación de Chat
-##Descripción:
+# 1. Aplicación de Chat
+
+## Descripción: 
+
 La aplicación permite al usuario conectarse con quien desee por medio de chat.
 
-##Funcionalidad:
+## Funcionalidad: 
+
 Se pueden enviar y recibir mensajes de texto.
 
-##Características adicionales:
+## Características adicionales: 
+
 Ver el "en linea"
 
-##Aplicaciones similares.
+## Aplicaciones similares.
+
 • WhastApp
 
 • Messenger
 
 • Telegram
 
-2#. Aplicación de gestión de tareas colaborativa
+# 2. Aplicación de gestióm de tareas colaborativa.
 
-##Descripción:
+## Descripción: 
+
 La aplicación permite a un grupo de personas crear, asignar y dar seguimiento a tareas de forma organizada. Está pensada para mejorar la productividad y la colaboración en equipos de trabajo.
 
-##Funcionalidad:
+## Funcionalidad: 
 
 Crear tareas con fecha límite, descripción y prioridad.
 
@@ -34,7 +40,7 @@ Visualizar las tareas en vista de lista o en un tablero Kanban.
 
 Sincronizar tareas con Google Calendar.
 
-##Aplicaciones similares:
+## Aplicaciones similares.
 
 •Trello
 
@@ -42,12 +48,13 @@ Sincronizar tareas con Google Calendar.
 
 •Microsoft To Do
 
-#3. Red social para dueños de mascotas
+# 1. Red social para dueños de mascotas.
 
-##Descripción:
+## Descripción: 
+
 Una red social pensada para dueños y amantes de las mascotas, donde pueden compartir experiencias, fotos, consejos y fomentar la adopción responsable.
 
-##Funcionalidad:
+## Funcionalidad: 
 
 Crear perfiles para cada mascota con foto, edad y raza.
 
@@ -59,11 +66,11 @@ Ubicar veterinarias y parques cercanos.
 
 Chatear con otros usuarios mediante mensajería interna.
 
-##Características adicionales:
+## Características adicionales: 
 
 Opción de marcar veterinarias y parques como favoritos.
 
-##Aplicaciones similares:
+## Aplicaciones similares.
 
 •Dogster
 
